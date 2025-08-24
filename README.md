@@ -1,25 +1,21 @@
-# 🧩 Assignment: CSS Layouts & Responsive Web Design
-
-## Overview
-
-In this assignment, you'll learn how to bring structure, flexibility, and responsiveness to your web pages using modern CSS layout techniques—**Flexbox** and **Grid**. You'll also apply **Responsive Web Design (RWD)** principles to ensure your page adapts beautifully across screen sizes and devices.
+# Assignment on CSS Layouts & Responsive Web Design
 
 ## Objective
 
-Build a responsive multi-section webpage that uses **Flexbox** and **CSS Grid** for layout and demonstrates how content adjusts across mobile, tablet, and desktop views. You'll showcase your ability to align and position content with precision, using media queries and flexible units to enhance the user experience on any device.
+To build a responsive multi-section webpage that uses **Flexbox** and **CSS Grid** for layout and demonstrates how content adjusts across mobile, tablet, and desktop views. You'll showcase your ability to align and position content with precision, using media queries and flexible units to enhance the user experience on any device.
 
-## What You’ll Practice
+## What I Practiced
 
 * Structuring content using Flexbox for 1D layouts (rows or columns)
 * Using CSS Grid for complex 2D layouts
 * Applying responsive design techniques using media queries and relative units (`%, rem`, `vw`, etc.)
 * Creating layouts that gracefully adapt to different screen sizes without breaking
 
-## Instructions
+## Instructions were:
 
-Create a responsive webpage that contains multiple sections—such as a header, navigation bar, content area, sidebar, and footer. You are encouraged to use Flexbox in one part of the page and Grid in another (e.g., Grid for the main layout and Flexbox for cards or navigation alignment).
+Creating a responsive webpage that contains multiple sections—such as a header, navigation bar, content area, sidebar, and footer. Encouraged to use Flexbox in one part of the page and Grid in another (e.g., Grid for the main layout and Flexbox for cards or navigation alignment).
 
-Make sure your layout:
+Layout should:
 
 * Looks good on **desktop**, **tablet**, and **mobile**
 * Uses media queries to adjust column layout, spacing, or visibility
@@ -29,7 +25,7 @@ Avoid using any CSS frameworks or libraries—build everything with raw CSS.
 
 ## Deliverables
 
-Submit the following:
+Submition:
 
 * `index.html`: Your HTML5 structure
 * `style.css`: Your responsive CSS file with Flexbox, Grid, and media queries
